@@ -1,3 +1,3 @@
 # SudokuSolver
 Sudoku solver pro soutěž "Sudoku" od Unicorn College
-### [DEMO](sudoku.lukasholeczy.eu) ###
+### [DEMO](http://sudoku.lukasholeczy.eu) ###
