@@ -1,2 +1,3 @@
 # SudokuSolver
-Sudoku solver for Unicorn College competition
+Sudoku solver pro soutěž "Sudoku" od Unicorn College
+### [DEMO](sudoku.lukasholeczy.eu) ###
